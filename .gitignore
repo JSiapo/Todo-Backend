@@ -1,0 +1,6 @@
+.vscode
+.nvmrc
+node_modules
+*-lock.json
+dist
+.env
